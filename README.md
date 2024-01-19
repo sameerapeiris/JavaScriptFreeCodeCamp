@@ -5,7 +5,7 @@ In this JavaScript Algorithm and Data Structures Certification, you'll learn the
 
 You'll also learn about Object Oriented Programming (OOP), Functional Programming, algorithmic thinking, how to work with local storage, and how to fetch data using an API.
 
-reference: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-javascript-by-building-a-role-playing-game
+reference: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 
 # Projects 
 
